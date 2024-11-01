@@ -1,0 +1,147 @@
+.WindowsStyle .ajax__combobox_inputcontainer .ajax__combobox_textboxcontainer input
+{
+   margin: 0;
+   border: solid 1px #7F9DB9;
+   border-right: 0px none;
+   padding: 1px 0px 0px 5px;
+   font-size: 13px;
+   height: 18px;
+   position: relative;       
+}
+.WindowsStyle .ajax__combobox_inputcontainer .ajax__combobox_buttoncontainer button
+{
+   margin: 0;
+   padding: 0;
+   background-image: url(windows-arrow.gif);
+   background-position: top left;
+   border: 0px none;
+   height: 21px;
+   width: 21px;
+}
+
+.WindowsStyle .ajax__combobox_itemlist
+{
+   border-color: #7F9DB9;
+}
+
+
+
+
+.ddlUnitCode {
+            visibility: visible !important;
+            display: block !important;
+            z-index: 1000;
+            overflow-x: hidden;
+            overflow-y: auto;
+            width: 416px;
+            position: absolute;
+            height: 425px;
+            left: 293px;
+            top: 1458px;
+        }
+
+
+.LabelCaption
+{
+    font-family: GE Inspira Medium;
+    font-size: medium;
+    color: Navy;
+}
+
+.TitleLbl
+{
+    color: Black;
+    text-transform: capitalize;
+    font-weight: bold;
+    font: GE Inspira Medium;
+    font-size: 42pt;
+}
+
+.SubTitleLbl
+{
+    color: Black;
+    text-transform: capitalize;
+    font-weight: bold;
+    font: GE Inspira Medium;
+    font-size: x-large;
+}
+
+
+.TDCenter
+{
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.StatLabel
+{
+    font-family: GE Inspira Medium;
+    font-size: medium;
+    color: Red;
+}
+
+.hplArea
+{
+    font-family: GE Inspira Medium;
+    font-size: large;
+    color: Navy;
+}
+
+.TabHeader
+{
+    font-family: GE Inspira Medium;
+    font-size: large;
+    color: White;
+}
+
+.greenLabelSmall
+{
+    font-size: small;
+    color: Green;
+}
+
+
+.grayLabelSmall
+{
+    font-size: small;
+    color: #666666;
+}
+
+.BoldLblSmall
+{
+    font-family: GE Inspira Medium;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.trTitle
+{
+    font-family: 'GE Inspira Medium';
+    font-size: xx-large;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #96AED2;
+    height:120px;
+}
+
+.tdNormalLabel
+{
+    font-family: GE Inspira Medium;
+    font-size: medium;
+}
+
+.tdBoldLbl
+{
+    font-family: GE Inspira Medium;
+    font-size:large;
+    font-weight: bold;    
+}
+
+.tdShort
+{
+    width:130px;
+    font-family: GE Inspira Medium;
+    font-size: medium;
+    font-weight: bold; 
+}
